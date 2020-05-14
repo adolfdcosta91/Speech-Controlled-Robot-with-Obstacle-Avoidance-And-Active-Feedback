@@ -11,7 +11,7 @@ A robot that responds to speech commands from the user. The device provides an a
 ## Hardware 
 
 * Robot Frame
-* 1 Sheeld
+* One Sheeld
 * Arduino Board (Uno)
 * Motor Driver (L298N)
 * Ultra Sonic Module (HC-SR04)
@@ -22,7 +22,7 @@ A robot that responds to speech commands from the user. The device provides an a
 
 ## Software 
 
-* Arduino Ide
+* Arduino IDE
 * One Sheeld App
 * Supporting Libraries
 
